@@ -92,7 +92,7 @@ Le code source n'est pas disponible pour des raisons académiques.
 - **Tutoriels vidéo** : [Chaîne YouTube Freenove](https://www.youtube.com/@Freenove)
 - **Schémas de câblage** : Inclus dans la documentation du kit
 
-## Auteur
+## Autrice
 **Raj Beghum Hanif**  
 Projet académique - Cours d'objets connectés  
 Utilisation du kit Freenove FNK0043
